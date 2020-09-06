@@ -1,0 +1,110 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+#body {
+}
+
+#topo {
+    background-image: url("technology-template-flat-design_1028-51.jpg");
+    background-position: 200px;
+    opacity: 0.7;
+    height: 250px;
+    background-repeat: repeat;
+}
+
+#menu ul {
+    background-color: royalblue;
+    opacity: 0.8;
+}
+
+#menu ul li {
+    display: inline-table;
+    padding: 20px 30px;
+    cursor: pointer;
+}
+
+#menu li:hover {
+    background-color: rgb(0, 0, 0, 0.5);
+    padding: 20px;
+    height: 15px;
+}
+
+#menu ul li a {
+    text-decoration: none;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#artigo h1 {
+    height: 50px;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+
+#artigo h2 {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+
+#artigo h3 {
+    height: 0px;
+    margin: 0px;
+}
+
+#artigo h3:hover {
+    background-color: burlywood;
+    padding: 10px;
+    height: 0;
+}
+
+#artigo h4 {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+
+.container img {
+    max-width: 200px;
+}
+
+#tema {
+    background-color: grey;
+    padding: 50px;
+    margin: 0px;
+    height: 500px;
+}
+
+#tema1 {
+    background-color: grey;
+    padding: 50px;
+    margin: 0px;
+    height: 500px;
+}
+
+#tema2 {
+    background-color: grey;
+    padding: 50px;
+    margin: 0px;
+    height: 500px;
+}
+
+#tema3 {
+    background-color: grey;
+    padding: 50px;
+    margin: 0px;
+    height: 500px;
+}
+
+#tema4 {
+    background-color: grey;
+    padding: 50px;
+    margin: 0px;
+    height: 500px;
+}
