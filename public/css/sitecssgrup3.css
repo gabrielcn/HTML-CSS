@@ -1,12 +1,21 @@
 *{
-    margin: auto;
-    padding: auto;
+    margin: 0;
+    padding: 0;
 }
-
+h1{
+    padding-bottom:40px;
+}
+h4{
+    padding-bottom: 40px;
+}
+h2{
+    padding-bottom: 40px;
+}
 #body {
 }
 
 #topo {
+    /* sem essa imagem nos arquivos */
     background-image: url("technology-template-flat-design_1028-51.jpg");
     background-position: 200px;
     opacity: 0.7;
@@ -37,7 +46,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-#artigo h1 {
+.artigo h1 {
     height: 50px;
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
@@ -45,25 +54,25 @@
     color: black;
 }
 
-#artigo h2 {
+.artigo h2 {
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     color: black;
 }
 
-#artigo h3 {
+.artigo h3 {
     height: 0px;
     margin: 0px;
 }
 
-#artigo h3:hover {
+.artigo h3:hover {
     background-color: burlywood;
     padding: 10px;
     height: 0;
 }
 
-#artigo h4 {
+.artigo h4 {
     font-size: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
@@ -74,35 +83,35 @@
     max-width: 200px;
 }
 
-#tema {
+.tema {
     background-color: grey;
     padding: 50px;
     margin: 0px;
     height: 500px;
 }
 
-#tema1 {
+.tema1 {
     background-color: grey;
     padding: 50px;
     margin: 0px;
     height: 500px;
 }
 
-#tema2 {
+.tema2 {
     background-color: grey;
     padding: 50px;
     margin: 0px;
     height: 500px;
 }
 
-#tema3 {
+.tema3 {
     background-color: grey;
     padding: 50px;
     margin: 0px;
     height: 500px;
 }
 
-#tema4 {
+.tema4 {
     background-color: grey;
     padding: 50px;
     margin: 0px;
